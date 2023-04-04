@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.multiRootWorkspaceName": "mcsp-guessing-game"
+}
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
